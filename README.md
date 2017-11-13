@@ -3,7 +3,7 @@
 Hierarchy Serialization Java-Component
 
 **Usage:**
- - https://github.com/mikelaud/core-types/blob/master/src/test/java/mikelaud/core/hierarchy/HierarchySerializationDemo.java
+ - https://github.com/mikelaud/core-types/blob/master/src/test/java/mikelaud/core/serialization/hierarchy/HierarchySerializationDemo.java
 
 **Maven:**
 ```XML
